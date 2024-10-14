@@ -1,4 +1,9 @@
 ## Hi there 👋
+I'm Robert, a self-motivated PHP/Go backend-developer.
+Senior backend-developer in SuperJob
+
+Personal site https://robertobadjio.ru
+Linkedin profile https://www.linkedin.com/in/robertobadjio
 
 <!--
 **robertobadjio/robertobadjio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
