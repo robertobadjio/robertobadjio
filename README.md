@@ -1,12 +1,10 @@
-## Hi there 👋
+### Hi there 👋
 I'm Robert, a self-motivated PHP/Go backend-developer.
 
 💻 Senior backend-developer in [SuperJob](https://superjob.tech)
 
-💬 Connect [@robertobadjio](https://t.me/robertobadjio)
-
+💬 Connect [@robertobadjio](https://t.me/robertobadjio)\
 💻 Personal site [robertobadjio](https://robertobadjio.ru)
-
 💻 Linkedin profile [robertobadjio](https://www.linkedin.com/in/robertobadjio)
 
 ### 🛠 &nbsp;Languages and Tools:
